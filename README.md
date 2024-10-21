@@ -19,7 +19,7 @@ To set up this project on your local machine, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/arvindcr4/mf_mini_project)
    ```
    
 
